@@ -1,5 +1,5 @@
 {
-  "name": "config-global-vitest",
+  "name": "digbang",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,13 +12,16 @@
   },
   "dependencies": {
     "jsdom": "^22.1.0",
+    "rc-slider": "^10.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "styled-components": "^6.1.9",
     "vite-plugin-eslint": "^1.8.1",
     "vitest": "^0.33.0"
   },
   "devDependencies": {
     "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.5.2",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^6.0.0",
